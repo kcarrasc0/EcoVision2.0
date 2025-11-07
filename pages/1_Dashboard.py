@@ -15,7 +15,7 @@ st.title("📊 Dashboard de Monitoramento de Queimadas")
 
 # --- URLs DE DADOS ---
 # !! IMPORTANTE !! Lembre-se de ajustar esta URL
-BASE_URL = "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/data/" 
+BASE_URL = "https://raw.githubusercontent.com/kcarrasc0/EcoVision2.0/refs/heads/main/data/" 
 
 # --- FUNÇÃO 1: CARREGAR DADOS DOS BIOMAS (os 6 arquivos) ---
 @st.cache_data
