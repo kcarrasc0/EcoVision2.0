@@ -34,7 +34,7 @@ if st.session_state.get("autenticado", False):
 
 # 2. Se não está logado, mostra o formulário de login
 st.title("🌿 EcoVision Login")
-st.write("Por favor, insira suas credenciais para acessar o sistema.")
+st.write("Por favor, insira suas credenciais para acessar o sistema. Usuario e senha: cop30")
 
 st.text_input("Usuário", key="username")
 st.text_input("Senha", type="password", key="password")
