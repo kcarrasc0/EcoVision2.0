@@ -97,5 +97,6 @@ Bash
 streamlit run app.py
 💚 Patrocinadores e Apoiadores
 Projeto apoiado por:
+```
 
-(Adicione as imagens dos seus patrocinadores aqui. Exemplo:) ![Jovens no Clima](patrocinadores.png)
+![Jovens no Clima](patrocinadores.png)
