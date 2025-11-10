@@ -1,6 +1,6 @@
 # pages/2_Reconhecimento_de_Fogo.py
 import streamlit as st
-import cv2
+import cv2 #import 
 import numpy as np
 from streamlit_webrtc import webrtc_streamer, RTCConfiguration
 import av
