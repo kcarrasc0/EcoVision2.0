@@ -4,6 +4,10 @@ O EcoVision é uma plataforma web para monitoramento ambiental de queimadas no B
 
 O objetivo é demonstrar como a tecnologia pode ser uma ferramenta poderosa para jovens da periferia no combate às crises climáticas, unificando análise de dados, visão computacional (Deep Learning) e previsão de risco (Machine Learning).
 
+## Aplicação
+![EcoVision](https://ecovision2.streamlit.app)
+
+
 ---
 
 ## 🚀 Como Funciona
